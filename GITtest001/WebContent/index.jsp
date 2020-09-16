@@ -11,7 +11,7 @@
 
 	<div class="container panel panel-info">
 		<h3 class="panel-heading"></h3>
-		<p>JSP</p>
+		<p>VER2</p>
 	</div>
 </body>
 </html>
